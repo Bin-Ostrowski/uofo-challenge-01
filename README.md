@@ -1,5 +1,7 @@
 # uofo-challenge-01
-sematics and lables on html 
+semantics and lables on html 
+
+labled css by sections and reorganized to follow flow of html
 
 
  
