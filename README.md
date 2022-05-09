@@ -1,4 +1,9 @@
 # uofo-challenge-01
+sematics and lables on html 
+
+
+ 
+
 I first cloaned the urban-octo-telegram and 
 
 adjusted title to companie's name
