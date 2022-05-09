@@ -93,7 +93,7 @@ body {
     font-size: 36px;
 }
 
-p {
+.content p {
     font-size: 16px;
 }
 /* CONTENT ENDS */
@@ -125,7 +125,6 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
-
 /* BENEFIT ENDS */
 
 /* FOOTER BEGINS */
