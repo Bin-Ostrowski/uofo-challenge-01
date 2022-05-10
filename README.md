@@ -1,5 +1,5 @@
 # uofo-challenge-01
-Tha following changes have been made:
+The following changes have been made:
 
 1. Specific semantic elements added to HTML to optomize SEO.
 2. Comments included to organize elements in HTML.
